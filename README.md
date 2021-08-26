@@ -5,4 +5,4 @@ This repository contains the DNT fixed-point math contract and the ERC-20 contra
 
 
 
-Copyright: The Dynamic Network Project. All Rights Reserved ©
+Copyright: 2021 The Dynamic Network Project. All Rights Reserved ©
